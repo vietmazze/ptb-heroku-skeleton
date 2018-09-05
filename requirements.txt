@@ -1,1 +1,6 @@
 python-telegram-bot
+functools
+re
+os
+sys
+
