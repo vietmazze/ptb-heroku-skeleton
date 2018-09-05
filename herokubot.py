@@ -38,8 +38,8 @@ def error(bot, update, error):
 
 if __name__ == "__main__":
     # Set these variable to the appropriate values
-    TOKEN = "428239435:AAGA-VxXxxZj5sVGfevk44SqrZzt6x7L7ac"
-    NAME = "topico88"
+    TOKEN = ""
+    NAME = ""
 
 
     # Port is given by Heroku
